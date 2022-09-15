@@ -12,6 +12,8 @@ CryptoBlessing is a decentralized red envelope system that allows senders to en
 
 ## 系统架构
 
+![系统架构](https://ewr1.vultrobjects.com/crypto-blessing/hackthon/wx2022/infrustructrue.jpg)
+
 ## 安全防护
 
 ![安全防护](https://ewr1.vultrobjects.com/crypto-blessing/hackthon/wx2022/Security.jpg)
