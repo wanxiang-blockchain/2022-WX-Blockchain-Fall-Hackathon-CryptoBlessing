@@ -8,12 +8,21 @@ CryptoBlessing is a decentralized red envelope system that allows senders to en
 
 ## 经济模型
 
+![经济模型](https://ewr1.vultrobjects.com/crypto-blessing/hackthon/wx2022/economics.jpg)
+
 ## 系统架构
 
 ## 安全防护
 
+![安全防护](https://ewr1.vultrobjects.com/crypto-blessing/hackthon/wx2022/Security.jpg)
+
 ## Demo
 
 [NEAR-Testnet](https://near-test.cryptoblessing.app/)
+[Demo-Video](https://pan.baidu.com/s/1oqXLA5nxYWfsz5ciPFpLyA) 密码: dee9
 
 ## TBD
+
+* 引入Blessing设计师共创平台
+* 去除中心化服务确保安全性
+* DID身份认证系统
