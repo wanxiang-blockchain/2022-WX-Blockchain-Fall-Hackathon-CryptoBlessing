@@ -14,4 +14,6 @@ CryptoBlessing is a decentralized red envelope system that allows senders to en
 
 ## Demo
 
+[NEAR-Testnet](https://near-test.cryptoblessing.app/)
+
 ## TBD
