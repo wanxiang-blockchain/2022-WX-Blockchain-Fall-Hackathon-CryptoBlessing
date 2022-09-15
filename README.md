@@ -18,8 +18,8 @@ CryptoBlessing is a decentralized red envelope system that allows senders to en
 
 ## Demo
 
-[NEAR-Testnet](https://near-test.cryptoblessing.app/)
-[Demo-Video](https://pan.baidu.com/s/1oqXLA5nxYWfsz5ciPFpLyA) 密码: dee9
+* [NEAR-Testnet](https://near-test.cryptoblessing.app/)
+* [Demo-Video](https://pan.baidu.com/s/1oqXLA5nxYWfsz5ciPFpLyA) 密码: dee9
 
 ## TBD
 
