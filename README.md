@@ -28,5 +28,6 @@ See more details in our [whitepaper](https://whitepaper.cryptoblessing.app/)
 ## TBD
 
 * 引入Blessing设计师共创平台
+* NFT交易市场
 * 去除中心化服务确保安全性
 * DID身份认证系统
